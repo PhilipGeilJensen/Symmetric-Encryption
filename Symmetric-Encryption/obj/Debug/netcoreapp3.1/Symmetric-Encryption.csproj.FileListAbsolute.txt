@@ -1,0 +1,13 @@
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\obj\Debug\netcoreapp3.1\Symmetric-Encryption.csprojAssemblyReference.cache
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\obj\Debug\netcoreapp3.1\Symmetric-Encryption.AssemblyInfoInputs.cache
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\obj\Debug\netcoreapp3.1\Symmetric-Encryption.AssemblyInfo.cs
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\obj\Debug\netcoreapp3.1\Symmetric-Encryption.csproj.CoreCompileInputs.cache
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\bin\Debug\netcoreapp3.1\Symmetric-Encryption.exe
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\bin\Debug\netcoreapp3.1\Symmetric-Encryption.deps.json
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\bin\Debug\netcoreapp3.1\Symmetric-Encryption.runtimeconfig.json
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\bin\Debug\netcoreapp3.1\Symmetric-Encryption.runtimeconfig.dev.json
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\bin\Debug\netcoreapp3.1\Symmetric-Encryption.dll
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\bin\Debug\netcoreapp3.1\Symmetric-Encryption.pdb
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\obj\Debug\netcoreapp3.1\Symmetric-Encryption.dll
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\obj\Debug\netcoreapp3.1\Symmetric-Encryption.pdb
+C:\Users\PhilipJensen\source\repos\Symmetric-Encryption\Symmetric-Encryption\obj\Debug\netcoreapp3.1\Symmetric-Encryption.genruntimeconfig.cache
